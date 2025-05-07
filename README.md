@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Manu
 
-<!--
-**MANUUo/MANUUo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Systems Engineering student passionate about backend development, automata theory, and clean code architecture.
 
-Here are some ideas to get you started:
+💻 I work mostly with **Java**, **Python**, **JavaScript**, and **Node.js**.  
+📚 Always learning — currently diving deeper into **OOP**, **automata**, and **graph-based visualizations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy building projects that combine theory and practice, from interpreters and AFDs to web apps and visual tools.
+
+📫 Feel free to reach out or check out my repositories to see what I'm working on!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
