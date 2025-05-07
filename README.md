@@ -1,14 +1,38 @@
-## 👋 Hi there, I'm Manu
+<h1 align="center">Hi there 👋, I'm Manu</h1>
 
-🎓 I'm a Systems Engineering student passionate about backend development, automata theory, and clean code architecture.
-
-💻 I work mostly with **Java**, **Python**, **JavaScript**, and **Node.js**.  
-📚 Always learning — currently diving deeper into **OOP**, **automata**, and **graph-based visualizations**.
-
-🚀 I enjoy building projects that combine theory and practice, from interpreters and AFDs to web apps and visual tools.
-
-📫 Feel free to reach out or check out my repositories to see what I'm working on!
+<p align="center">
+  🎓 <strong>Systems Engineering student</strong> <br>
+  💻 Passionate about <strong>backend development</strong>, <strong>automata theory</strong> and <strong>clean code</strong> <br>
+  📍 Based in LATAM | 🌐 Always connected
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 About Me
+
+- 🛠 I enjoy combining **theory and practice** in projects like AFD simulators, interpreters, and backend services.
+- ✍️ I value **clean, maintainable code** and modular design.
+- 🌱 Always learning and exploring new tools and concepts.
+
+---
+
+### 📫 Let's connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/manuel-l%C3%B3pez-111810364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+</p>
